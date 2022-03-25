@@ -79,7 +79,7 @@
     "@types/node": "~8.9.4",
     "buffertools": "^2.1.6",
     "codelyzer": "~4.5.0",
-    "electron": "^3.0.13",
+    "electron": "^13.6.6",
     "electron-builder": "^20.38.5",
     "electron-rebuild": "^1.8.2",
     "jasmine-core": "~2.99.1",
